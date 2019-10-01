@@ -1,5 +1,17 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Required Environment Variables
+
+```
+REACT_APP_CLIENT_ID
+REACT_APP_TENANT_ID
+REACT_APP_SUBSCRIPTION_ID
+REACT_APP_RESOURCE_GROUP_NAME
+REACT_APP_NAMESPACE_NAME
+REACT_APP_TOPIC_NAME
+REACT_APP_SUBSCRIPTION_NAME
+```
+
 ## Available Scripts
 
 In the project directory, you can run:
